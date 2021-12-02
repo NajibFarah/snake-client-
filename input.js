@@ -30,5 +30,4 @@ const handleUserInput = function(key) {
   console.log("this is the wrong key");
 };
 
-setupInput();
-module.exports = (setupInput), {handleUserInput};
+module.exports = {setupInput,handleUserInput};
