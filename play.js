@@ -6,4 +6,4 @@ console.log('Connecting ...');
 const connection = connect();
 setupInput(connection);
 
-module.exports = { connect }
+module.exports = { connect } 
